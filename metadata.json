@@ -1,0 +1,6 @@
+{
+  "name": "Special Delivery — A Parcel for Alim",
+  "description": "An interactive special delivery parcel with tactile bubble wrap, a courier cat, a keepsake Polaroid, and a heartfelt note.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
